@@ -18,4 +18,7 @@ O jogador utiliza as setas do teclado do computador para mover as peças:
 # Desenvolvimento do Jogo: A criação do jogo foi realizada em algumas etapas:
 
 **Criação da tela principal do jogo:**
-Criamos, primeiramente, a tela principal do jogo por ser a parte mais complicada do conjunto de telas. Foi a parte de maior demorada e desafios da criação do jogo por conta da falta de habilidade e familiariedade da ferramenta "Visual Studio Code" do grupo. Foi utilizado um plano de fundo como no jogo original e as grades no fundo do game que foi aprimorado. A partir disso, retiramos uma das peças do game antigo (por ser difícil de encaixar no layout novo) e adicionamos música, pontuação, método de guardar uma peça, imagem da próxima peça, tela de pausar e level.
+Criamos, primeiramente, a tela principal do jogo por ser a parte mais complicada do conjunto de telas. Foi a parte de maior demora e desafios da criação do jogo por conta da falta de habilidade e familiariedade da ferramenta "Visual Studio Code" do grupo. Foi utilizado um plano de fundo como no jogo original e as grades no fundo do game que foi aprimorado. A partir disso, retiramos uma das peças do game antigo (por ser difícil de encaixar no layout novo) e adicionamos música, pontuação, método de guardar uma peça, imagem da próxima peça, tela de pausar e level.
+
+**Criação da tela inicial do jogo:**  
+A tela inicial do Tetris foi projetada para ser clara e intuitiva. Comecei definindo o layout, que inclui o título e botões de navegação ("Iniciar Jogo", "Instruções" e "Sair"). Escolhi um fundo que combinasse com a tela principal e apenas inseri os botões princpais.
