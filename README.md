@@ -22,3 +22,5 @@ Criamos, primeiramente, a tela principal do jogo por ser a parte mais complicada
 
 **Criação da tela inicial do jogo:**  
 A tela inicial do Tetris foi projetada para ser clara e intuitiva. Comecei definindo o layout, que inclui o título e botões de navegação ("Iniciar Jogo", "Instruções" e "Sair"). Escolhi um fundo que combinasse com a tela principal e apenas inseri os botões princpais.
+
+*A concretização do projeto só foi possível com a ajuda do esudante de sistemas de informação da Univille, Kaue Gomes Cidral.*
