@@ -11,7 +11,7 @@ Um conjunto de formas em bloco geradas de maneira aleatória flutua na parte sup
 O jogador utiliza as setas do teclado do computador para mover as peças: 
 *Para mover a peça horizontalmente:* setas direita e esquerda;
 *Para acelerar a descida da peça:* seta para baixo;
-*Para rotacionar a peça:* tecla backspace;
+*Para rotacionar a peça:* seta para cima;
 *Para guardar uma peça:* tecla "C";
 *Para pausar o jogo:* tecla "P".
 
