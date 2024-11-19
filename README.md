@@ -27,3 +27,6 @@ A tela inicial do Tetris foi projetada para ser clara e intuitiva. Comecei defin
 
 # Gravação tela do game:
 https://drive.google.com/file/d/1GO8XTFLv-vk1erhaSy7a1X_BOshf-oeA/view?usp=sharing
+
+# Gravação tela do jogo:
+https://drive.google.com/file/d/1wB_pvFHvqwrxm_KUrNjBlBZASLInBvqL/view?usp=sharing
